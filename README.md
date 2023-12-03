@@ -6,4 +6,4 @@ To use the crawler type (after downloading): <py/python/python3> crawler.py [-d 
 
 DEPTH is set to 2 by default.
 
-IGNIRE_REGEX - a string representing a RegEx such that all urls which answer it are ignored.
+IGNIRE_REGEX - ignores links that contain this RegEx.
